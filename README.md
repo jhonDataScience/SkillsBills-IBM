@@ -1,4 +1,4 @@
-# Proyecto Final de Inteligencia Artificial | IBM SkillUp 2024
+# Mí historia en la Inteligencia Artificial | IBM SkillUp
 
 Este proyecto, desarrollado en Python, se centra en aplicaciones de Machine Learning e Inteligencia Artificial. A lo largo del curso, hemos explorado conceptos fundamentales, como aprendizaje supervisado, no supervisado y redes neuronales. Además, hemos implementado algoritmos de clasificación, regresión y agrupamiento.
 
